@@ -61,4 +61,4 @@ npm-debug.log
 *.swp
 
 # Mock server #
-server/node_modules
+server/node_modules/
